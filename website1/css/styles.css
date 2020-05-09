@@ -8,5 +8,7 @@
 header{
 	background-image: url(../img/csern_front1.jpg);
 	background-repeat: no-repeat;
-	height: 100vh;
+	background-attachment: fixed;
+	background-size: cover;
+	
 }
